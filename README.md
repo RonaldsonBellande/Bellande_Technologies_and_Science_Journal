@@ -1,2 +1,1 @@
-# Bellande_Technologies_and_Science_Journal
-Bellande Technologies and Science Journal
+# Bellande Technologies& Science Journal
